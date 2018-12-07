@@ -1,0 +1,44 @@
+﻿<Page x:Class="MegaCastings.Pages.Français.Clients.ShowCustomerFr"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MegaCastings.Pages.Français.Clients"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="ShowCustomerFr">
+
+    <Grid HorizontalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="5"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="5"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.Children>
+            <!--Message-->
+            <Grid Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+                <Label Name="MainTitle" Content="Voici la liste des Clients :"></Label>
+            </Grid>
+            <!--Contenu-->
+            <Grid Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2">
+                <ListView Name="ListCustomers" Margin="0,0,0,-150" Width="auto">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Nom" Width="auto" DisplayMemberBinding="{Binding nom}" />
+                            <GridViewColumn Header="Prénom" Width="auto" DisplayMemberBinding="{Binding prenom}" />
+                            <GridViewColumn Header="E-mail" Width="auto" DisplayMemberBinding="{Binding email}" />
+                            <GridViewColumn Header="Mot de Passe" Width="auto" DisplayMemberBinding="{Binding password}" />
+                            <GridViewColumn Header="Rôle" Width="auto" DisplayMemberBinding="{Binding role}" />
+                            <GridViewColumn Header="Nombre de Casting" Width="auto" DisplayMemberBinding="{Binding nbr_castings}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </Grid>
+        </Grid.Children>
+    </Grid>
+</Page>

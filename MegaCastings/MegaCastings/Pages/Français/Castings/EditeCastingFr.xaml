@@ -1,0 +1,101 @@
+﻿<Page x:Class="MegaCastings.Pages.Français.Castings.EditeCastingFr"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MegaCastings.Pages.Français.Castings"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="350"
+      Title="EditeCastingFr">
+
+    <Grid HorizontalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="5"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="5"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="5"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="5"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.Children>
+            <!--Message-->
+            <Grid Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+                <Label Name="MainTitle" Content="Sélectionner une Offre de Casting à modifier :"></Label>
+            </Grid>
+            <!--Contenu-->
+            <!--Combobox-->
+            <Grid Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5"></ColumnDefinition>
+                    <ColumnDefinition Width="auto"></ColumnDefinition>
+                    <ColumnDefinition Width="5"></ColumnDefinition>
+                    <ColumnDefinition Width="auto"></ColumnDefinition>
+                    <ColumnDefinition Width="5"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.Children>
+                    <Grid Grid.Column="1">
+                        <ComboBox Name="ListUpdCastings" ItemsSource="{Binding}" Width="150" Loaded="ListUpdCastings_Loaded"/>
+                    </Grid>
+                    <Grid Grid.Column="3">
+                        <Button Name="Show" Content="Afficher" Click="Show_Click" Width="50"/>
+                    </Grid>
+                </Grid.Children>
+            </Grid>
+            <!--Affichage-->
+            <Grid Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="5"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="5"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="5"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="5"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="5"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5"></ColumnDefinition>
+                    <ColumnDefinition Width="auto"></ColumnDefinition>
+                    <ColumnDefinition Width="5"></ColumnDefinition>
+                    <ColumnDefinition Width="auto"></ColumnDefinition>
+                    <ColumnDefinition Width="5"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.Children>
+                    <!--Intitule-->
+                    <Grid Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2">
+                        <Label Name="IntituleTitle" Content="Intitule :"></Label>
+                        <TextBox Name="Intitule" Width="120" Margin="175,0,0,0"></TextBox>
+                    </Grid>
+                    <!--Date de Début de Publication-->
+                    <Grid Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2">
+                        <Label Name="PubTitle" Content="Date de Début de Publication :"></Label>
+                        <DatePicker Name="Pub" Width="120" Margin="175,0,0,0"></DatePicker>
+                    </Grid>
+                    <!--Durée de Diffusion-->
+                    <Grid Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2">
+                        <Label Name="DiffusTitle" Content="Durée de Diffusion :"></Label>
+                        <TextBox Name="Diffus" Width="120" Margin="175,0,0,0"></TextBox>
+                    </Grid>
+                    <!--Date de Début de Contrat-->
+                    <Grid Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2">
+                        <Label Name="ContratTitle" Content="Date de Début de Contrat :"></Label>
+                        <DatePicker Name="Contrat" Width="120" Margin="175,0,0,0"></DatePicker>
+                    </Grid>
+                </Grid.Children>
+            </Grid>
+            <!--Bouton-->
+            <Grid Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2">
+                <Button Name="Next" Content="Suivant" Click="Next_Click"  Width="70"></Button>
+            </Grid>
+        </Grid.Children>
+    </Grid>
+</Page>

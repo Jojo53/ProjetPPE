@@ -1,0 +1,107 @@
+﻿<Page x:Class="MegaCastings.Pages.Anglais.Castings.AddCastingEn"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MegaCastings.Pages.Anglais.Castings"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="AddCastingEn">
+
+    <Grid HorizontalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="5"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="5"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="5"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.Children>
+            <!--Message-->
+            <Grid Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2">
+                <Label Name="MainTitle" Content="Please fill in the following fields :" HorizontalAlignment="Center"></Label>
+            </Grid>
+            <!--Ajout-->
+            <Grid Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="5"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="5"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="5"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="5"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="5"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="5"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="5"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5"></ColumnDefinition>
+                    <ColumnDefinition Width="auto"></ColumnDefinition>
+                    <ColumnDefinition Width="5"></ColumnDefinition>
+                    <ColumnDefinition Width="auto"></ColumnDefinition>
+                    <ColumnDefinition Width="5"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.Children>
+                    <!--Intitule-->
+                    <!--Label-->
+                    <Grid Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2">
+                        <Label Name="IntituleLabel" Content="Title :" Target="{Binding ElementName=IntituleBox}"></Label>
+                    </Grid>
+                    <!--TextBox-->
+                    <Grid Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="2">
+                        <TextBox Name="IntituleBox" Width="150" Margin="50,0,0,0"></TextBox>
+                    </Grid>
+                    <!--Date de Debut de Publication-->
+                    <!--Label-->
+                    <Grid Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2">
+                        <Label Name="StartPubLabel" Content="Publication Start Date:" Target="{Binding ElementName=StartPubBox}"></Label>
+                    </Grid>
+                    <!--DatePicker-->
+                    <Grid Grid.Row="3" Grid.Column="3" Grid.ColumnSpan="2">
+                        <DatePicker Name="StartPubBox" Width="150" Margin="50,0,0,0"></DatePicker>
+                    </Grid>
+                    <!--Duree Diffusion-->
+                    <!--Label-->
+                    <Grid Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2">
+                        <Label Name="DureeDiffusLabel" Content="Diffusion Time :" Target="{Binding ElementName=DureeDiffusBox}"></Label>
+                    </Grid>
+                    <!--TextBox-->
+                    <Grid Grid.Row="5" Grid.Column="3" Grid.ColumnSpan="2">
+                        <TextBox Name="DureeDiffusBox" Width="150" Margin="50,0,0,0"></TextBox>
+                    </Grid>
+                    <!--Date Debut Contrat-->
+                    <!--Label-->
+                    <Grid Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2">
+                        <Label Name="DateDebutContratLabel" Content="Contract Start Date :" Target="{Binding ElementName=DateDebutContratBox}"></Label>
+                    </Grid>
+                    <!--DatePicker-->
+                    <Grid Grid.Row="7" Grid.Column="3" Grid.ColumnSpan="2">
+                        <DatePicker Name="DateDebutContratBox" Width="150" Margin="50,0,0,0"></DatePicker>
+                    </Grid>
+                    <!--Localisation-->
+                    <!--Label-->
+                    <Grid Grid.Row="9" Grid.Column="1" Grid.ColumnSpan="2">
+                        <Label Name="LocalisationLabel" Content="Localisation :" Target="{Binding ElementName=LocalisationBox}"></Label>
+                    </Grid>
+                    <!--TextBox-->
+                    <Grid Grid.Row="9" Grid.Column="3" Grid.ColumnSpan="2">
+                        <TextBox Name="LocalisationBox" Width="150" Margin="50,0,0,0"></TextBox>
+                    </Grid>
+                    <!--Suivant-->
+                    <Grid Grid.Row="11" Grid.Column="3" Grid.ColumnSpan="2">
+                        <Button Name="NextButton" Content="Next" Width="50" Click="NextButton_Click"></Button>
+                    </Grid>
+                </Grid.Children>
+            </Grid>
+        </Grid.Children>
+    </Grid>
+</Page>

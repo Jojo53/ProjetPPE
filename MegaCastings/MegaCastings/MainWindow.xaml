@@ -1,0 +1,184 @@
+﻿<Window x:Class="MegaCastings.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MegaCastings"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="370" Width="535" WindowStyle="None"
+        Icon="Ressources\Icones\icon.png">
+    <Viewbox StretchDirection="Both">
+        <Grid Height="362" VerticalAlignment="Bottom">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="5"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="5"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="5"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="5"></RowDefinition>
+            </Grid.RowDefinitions>
+            <!--Colonnes de la grille principale-->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5"></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+                <ColumnDefinition Width="5"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <!--Enfants de la cellule de coordonnées (x,y)-->
+            <Grid.Children>
+                <!--Menu-->
+                <Border Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Style="{StaticResource Menu}">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="5"></ColumnDefinition>
+                        <ColumnDefinition Name="ColTitleWindow" Width="300"></ColumnDefinition>
+                        <ColumnDefinition Width="5"></ColumnDefinition>
+                        <ColumnDefinition Name="ColNavigation" Width="200"></ColumnDefinition>
+                        <ColumnDefinition Width="5"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.Children>
+                        <!--Titre-->
+                        <Grid Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Margin="0,5,0,0">
+                            <TextBlock Name="TitleWindow" FontSize="16" HorizontalAlignment="Center"></TextBlock>
+                        </Grid>
+                        <!--Fenêtre-->
+                        <Grid Grid.Row="0" Grid.Column="3" Margin="100,0,0,0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="5"></RowDefinition>
+                                <RowDefinition Height="25"></RowDefinition>
+                                <RowDefinition Height="5"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="5"></ColumnDefinition>
+                                <ColumnDefinition Width="25"></ColumnDefinition>
+                                <ColumnDefinition Width="5"></ColumnDefinition>
+                                <ColumnDefinition Width="25"></ColumnDefinition>
+                                <ColumnDefinition Width="5"></ColumnDefinition>
+                                <ColumnDefinition Width="25"></ColumnDefinition>
+                                <ColumnDefinition Width="5"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <!--Reduction-->
+                            <Grid Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2">
+                                <Button Name="ReduceButton" Width="25" Content="-" Height="25" Click="ReduceButton_Click">
+                                </Button>
+                            </Grid>
+                            <!--Taille-->
+                            <Grid Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="2">
+                                <Button Name="SizeButton" Width="25" Height="25" Content=" []" Click="SizeButton_Click"></Button>
+                            </Grid>
+                            <!--Fermer-->
+                            <Grid Grid.Row="1" Grid.Column="5" Grid.ColumnSpan="2">
+                                <Button Name="ExitButton" Width="25" Height="25" Content="X" Click="ExitButton_Click"></Button>
+                            </Grid>
+                        </Grid>
+                    </Grid.Children>
+                </Grid>
+                </Border>
+                <!--Menu 2-->
+                <Grid Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="5"></ColumnDefinition>
+                        <ColumnDefinition Width="300"></ColumnDefinition>
+                        <ColumnDefinition Width="5"></ColumnDefinition>
+                        <ColumnDefinition Width="200"></ColumnDefinition>
+                        <ColumnDefinition Width="5"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.Children>
+                        <!--Connectée-->
+                        <Border Name="Connected" Grid.Column="1" Grid.ColumnSpan="2" Style="{StaticResource Connect}">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="5"></RowDefinition>
+                                <RowDefinition Height="25"></RowDefinition>
+                                <RowDefinition Height="5"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="5"></ColumnDefinition>
+                                <ColumnDefinition Width="60"></ColumnDefinition>
+                                <ColumnDefinition Width="5"></ColumnDefinition>
+                                <ColumnDefinition Width="auto"></ColumnDefinition>
+                                <ColumnDefinition Width="5"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid.Children>
+                                <!--Message-->
+                                <Grid Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2">
+                                    <Label Name="MsgConnected" FontStyle="Italic"></Label>
+                                </Grid>
+                                <!--Utilsateur-->
+                                <Grid Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="2">
+                                    <Label Name="UserConnected" FontStyle="Italic"></Label>
+                                </Grid>
+                            </Grid.Children>
+                        </Grid>
+                        </Border>
+                        <!--Navigation-->
+                        <Border x:Name="Navigation" Grid.Column="3" Margin="75,0,0,0" Style="{StaticResource Connect}">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="5"></RowDefinition>
+                                <RowDefinition Height="25"></RowDefinition>
+                                <RowDefinition Height="5"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="2"></ColumnDefinition>
+                                <ColumnDefinition Width="25"></ColumnDefinition>
+                                <ColumnDefinition Width="5"></ColumnDefinition>
+                                <ColumnDefinition Width="25"></ColumnDefinition>
+                                <ColumnDefinition Width="5"></ColumnDefinition>
+                                <ColumnDefinition Width="25"></ColumnDefinition>
+                                <ColumnDefinition Width="5"></ColumnDefinition>
+                                <ColumnDefinition Width="25"></ColumnDefinition>
+                                <ColumnDefinition Width="5"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid.Children>
+                                <!--Retour-->
+                                <Grid Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2">
+                                        <Button Name="BackButton" Width="25" Height="25" Click="BackButton_Click">
+                                            <Button.Template>
+                                                <ControlTemplate>
+                                                    <Image Source="Ressources/Images/Back.png"/>
+                                                </ControlTemplate>
+                                            </Button.Template>
+                                        </Button>
+                                </Grid>
+                                <!--Langues-->
+                                <!--Français-->
+                                <Grid Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="2">
+                                    <!--Texte-->
+                                    <Label Name="FrLabel" Width="25" Height="25" Content="Fr"></Label>
+                                    <!--Bouton-->
+                                    <Button Name="FrButton" Width="25" Height="25" Content="Fr" Click="FrButton_Click"></Button>
+                                </Grid>
+                                <!--Anglais-->
+                                <Grid Grid.Row="1" Grid.Column="5" Grid.ColumnSpan="2">
+                                    <!--Texte-->
+                                    <Label Name="EnLabel" Width="25" Height="25" Content="En"></Label>
+                                    <!--Bouton-->
+                                    <Button Name="EnButton" Width="25" Height="25" Content="En" Click="EnButton_Click"></Button>
+                                </Grid>
+                                <!--Déconnexion-->
+                                <Grid Grid.Row="1" Grid.Column="7" Grid.ColumnSpan="2">
+                                        <Button Name="LoginOutButton" Width="25" Height="25" Click="LoginOutButton_Click">
+                                        <Button.Template>
+                                                <ControlTemplate>
+                                                    <Image Source="Ressources/Images/SignOut.png"/>
+                                                </ControlTemplate>
+                                        </Button.Template>
+                                    </Button>
+                                </Grid>
+                            </Grid.Children>
+                        </Grid>
+                        </Border>
+                    </Grid.Children>
+                </Grid>
+                <!--Contenu-->
+                <Border Grid.Row="5" Grid.Column="1" Style="{StaticResource Content}">
+                    <Frame x:Name="Body" NavigationUIVisibility="Hidden">
+                    </Frame>
+                </Border>
+            </Grid.Children>
+        </Grid>
+    </Viewbox>
+</Window>

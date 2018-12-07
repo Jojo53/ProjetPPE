@@ -1,0 +1,299 @@
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\MegaCastings.exe.config
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings.csprojResolveAssemblyReference.cache
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Fenêtres\MessageEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Fenêtres\MessageFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MainWindow.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\AccueilEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\AddCastingEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\CastingManagerEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\DeleteCastingEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\EditeCastingEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\ShowCastingEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\AddCustomerEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\CustomerManagerEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\DeleteCustomerEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\EditeCustomerEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\ShowCustomerEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\ConnexionEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\AddPartnerEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\DeletePartnerEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\EditePartnerEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\PartnerManagerEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\ShowPartnerEn.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\AccueilFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\AddCastingFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\CastingManagerFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\DeleteCastingFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\EditeCastingFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\ShowCastingFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\AddCustomerFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\CustomerManagerFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\DeleteCustomerFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\EditeCustomerFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\ShowCustomerFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\ConnexionFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\AddPartnerFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\DeletePartnerFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\EditePartnerFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\PartnerManagerFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\ShowPartnerFr.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\App.g.cs
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings_MarkupCompile.cache
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings_MarkupCompile.lref
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\MegaCastings.exe
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\MegaCastings.pdb
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Fenêtres\MessageEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Fenêtres\MessageFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MainWindow.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\AccueilEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\AddCastingEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\CastingManagerEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\DeleteCastingEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\EditeCastingEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\ShowCastingEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\AddCustomerEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\CustomerManagerEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\DeleteCustomerEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\EditeCustomerEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\ShowCustomerEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\ConnexionEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\AddPartnerEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\DeletePartnerEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\EditePartnerEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\PartnerManagerEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\ShowPartnerEn.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\AccueilFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\AddCastingFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\CastingManagerFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\DeleteCastingFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\EditeCastingFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\ShowCastingFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\AddCustomerFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\CustomerManagerFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\DeleteCustomerFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\EditeCustomerFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\ShowCustomerFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\ConnexionFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\AddPartnerFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\DeletePartnerFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\EditePartnerFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\PartnerManagerFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\ShowPartnerFr.baml
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings.g.resources
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings.Properties.Resources.resources
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings.csproj.GenerateResource.Cache
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings.exe
+c:\users\jbourr\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings.pdb
+C:\Users\JBOURR\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\EntityFramework.dll
+C:\Users\JBOURR\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JBOURR\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\MySql.Data.dll
+C:\Users\JBOURR\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\JBOURR\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\EntityFramework.xml
+C:\Users\JBOURR\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JBOURR\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\MySql.Data.xml
+C:\Users\JBOURR\documents\visual studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\MegaCastings.exe.config
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings.exe
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings.pdb
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\MegaCastings.exe
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\MegaCastings.pdb
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\EntityFramework.dll
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\MySql.Data.dll
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\EntityFramework.xml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\MySql.Data.xml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings.csprojResolveAssemblyReference.cache
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Fenêtres\MessageEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Fenêtres\MessageFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MainWindow.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\AccueilEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\AddCastingEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\CastingManagerEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\DeleteCastingEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\EditeCastingEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\ShowCastingEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\AddCustomerEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\CustomerManagerEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\DeleteCustomerEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\EditeCustomerEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\ShowCustomerEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\ConnexionEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\AddPartnerEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\DeletePartnerEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\EditePartnerEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\PartnerManagerEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\ShowPartnerEn.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\AccueilFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\AddCastingFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\CastingManagerFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\DeleteCastingFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\EditeCastingFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\ShowCastingFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\AddCustomerFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\CustomerManagerFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\DeleteCustomerFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\EditeCustomerFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\ShowCustomerFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\ConnexionFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\AddPartnerFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\DeletePartnerFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\EditePartnerFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\PartnerManagerFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\ShowPartnerFr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\App.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings_MarkupCompile.cache
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings_MarkupCompile.lref
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Fenêtres\MessageEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Fenêtres\MessageFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MainWindow.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\AccueilEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\AddCastingEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\CastingManagerEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\DeleteCastingEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\EditeCastingEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\ShowCastingEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\AddCustomerEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\CustomerManagerEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\DeleteCustomerEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\EditeCustomerEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\ShowCustomerEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\ConnexionEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\AddPartnerEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\DeletePartnerEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\EditePartnerEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\PartnerManagerEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\ShowPartnerEn.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\AccueilFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\AddCastingFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\CastingManagerFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\DeleteCastingFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\EditeCastingFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\ShowCastingFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\AddCustomerFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\CustomerManagerFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\DeleteCustomerFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\EditeCustomerFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\ShowCustomerFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\ConnexionFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\AddPartnerFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\DeletePartnerFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\EditePartnerFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\PartnerManagerFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\ShowPartnerFr.baml
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings.g.resources
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings.Properties.Resources.resources
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\MegaCastings.csproj.GenerateResource.Cache
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\AddCasting2Fr.g.cs
+C:\Users\jonathan\Documents\Visual Studio 2015\Projects\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\AddCasting2Fr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\bin\Debug\MegaCastings.exe.config
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\MegaCastings.exe
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\MegaCastings.pdb
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\bin\Debug\MegaCastings.exe
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\bin\Debug\MegaCastings.pdb
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\bin\Debug\EntityFramework.dll
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\bin\Debug\EntityFramework.SqlServer.dll
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\bin\Debug\MySql.Data.dll
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\bin\Debug\EntityFramework.xml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\bin\Debug\EntityFramework.SqlServer.xml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\bin\Debug\MySql.Data.xml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Fenêtres\MessageEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Fenêtres\MessageFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\MainWindow.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\AccueilEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\AddCasting2En.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\AddCastingEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\CastingManagerEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\DeleteCastingEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\EditeCasting2En.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\EditeCastingEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\ShowCasting2En.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\ShowCastingEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\AddCustomerEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\CustomerManagerEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\DeleteCustomerEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\EditeCustomerEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\ShowCustomerEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\ConnexionEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\AddPartnerEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\DeletePartnerEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\EditePartnerEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\PartnerManagerEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\ShowPartnerEn.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\AccueilFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\AddCasting2Fr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\AddCastingFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\CastingManagerFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\DeleteCastingFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\EditeCasting2Fr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\EditeCastingFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\ShowCasting2Fr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\ShowCastingFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\AddCustomerFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\CustomerManagerFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\DeleteCustomerFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\EditeCustomerFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\ShowCustomerFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\ConnexionFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\AddPartnerFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\DeletePartnerFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\EditePartnerFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\PartnerManagerFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\ShowPartnerFr.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\App.g.cs
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\MegaCastings_MarkupCompile.cache
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\MegaCastings_MarkupCompile.lref
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\App.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Fenêtres\MessageEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Fenêtres\MessageFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\MainWindow.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\AccueilEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\AddCasting2En.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\AddCastingEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\CastingManagerEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\DeleteCastingEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\EditeCasting2En.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\EditeCastingEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\ShowCasting2En.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Castings\ShowCastingEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\AddCustomerEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\CustomerManagerEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\DeleteCustomerEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\EditeCustomerEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Clients\ShowCustomerEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\ConnexionEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\AddPartnerEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\DeletePartnerEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\EditePartnerEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\PartnerManagerEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Anglais\Partenaires\ShowPartnerEn.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\AccueilFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\AddCasting2Fr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\AddCastingFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\CastingManagerFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\DeleteCastingFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\EditeCasting2Fr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\EditeCastingFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\ShowCasting2Fr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Castings\ShowCastingFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\AddCustomerFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\CustomerManagerFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\DeleteCustomerFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\EditeCustomerFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Clients\ShowCustomerFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\ConnexionFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\AddPartnerFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\DeletePartnerFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\EditePartnerFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\PartnerManagerFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\Pages\Français\Partenaires\ShowPartnerFr.baml
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\MegaCastings.g.resources
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\MegaCastings.Properties.Resources.resources
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\MegaCastings.csproj.GenerateResource.Cache
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\MegaCastings.csprojAssemblyReference.cache
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\MegaCastings.csproj.CoreCompileInputs.cache
+E:\Cours\PPE\UpdProjet\MegaCastings\MegaCastings\obj\Debug\MegaCastings.csproj.CopyComplete
